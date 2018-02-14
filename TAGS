@@ -1,0 +1,35 @@
+
+./src/Freqs.hs,308
+module Freqs Freqs0,1
+type Freq Freq2,3
+twelveTETfreq twelveTETfreq4,5
+twelveTETfreq twelveTETfreq5,6
+twelveTETn twelveTETn8,9
+twelveTETn twelveTETn9,10
+pianoFreq pianoFreq11,12
+pianoN pianoN12,13
+--getFreq --getFreq14,15
+--getFreq --getFreq15,16
+tubeLengthInches tubeLengthInches17,18
+
+./src/Main.hs,52
+module Main Main0,1
+main main2,3
+main main4,5
+
+./src/Lib.hs,65
+module LibLib0,1
+someFunc someFunc4,5
+someFunc someFunc5,6
+
+./Setup.hs,15
+main main1,2
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
+
+./app/Main.hs,52
+module Main Main0,1
+main main4,5
+main main5,6
